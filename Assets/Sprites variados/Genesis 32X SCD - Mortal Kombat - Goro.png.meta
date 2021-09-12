@@ -1,0 +1,1327 @@
+fileFormatVersion: 2
+guid: 762194c4bf7f08240876f2d5ca6edca0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5622400040832113010
+    second: Genesis 32X SCD - Mortal Kombat - Goro_0
+  - first:
+      213: -3643430777764951685
+    second: Genesis 32X SCD - Mortal Kombat - Goro_1
+  - first:
+      213: -2879884912334739111
+    second: Genesis 32X SCD - Mortal Kombat - Goro_2
+  - first:
+      213: 2063750188024048549
+    second: Genesis 32X SCD - Mortal Kombat - Goro_3
+  - first:
+      213: 8904914632444969696
+    second: Genesis 32X SCD - Mortal Kombat - Goro_4
+  - first:
+      213: -8032304611474638243
+    second: Genesis 32X SCD - Mortal Kombat - Goro_5
+  - first:
+      213: 7818169559719082775
+    second: Genesis 32X SCD - Mortal Kombat - Goro_6
+  - first:
+      213: 3933853345017043327
+    second: Genesis 32X SCD - Mortal Kombat - Goro_7
+  - first:
+      213: -1055495972132318870
+    second: Genesis 32X SCD - Mortal Kombat - Goro_8
+  - first:
+      213: 6885545642445459989
+    second: Genesis 32X SCD - Mortal Kombat - Goro_9
+  - first:
+      213: -4272030145831238228
+    second: Genesis 32X SCD - Mortal Kombat - Goro_10
+  - first:
+      213: 2531992645381585936
+    second: Genesis 32X SCD - Mortal Kombat - Goro_11
+  - first:
+      213: 4073691673331318006
+    second: Genesis 32X SCD - Mortal Kombat - Goro_12
+  - first:
+      213: 7977617595526353186
+    second: Genesis 32X SCD - Mortal Kombat - Goro_13
+  - first:
+      213: 3857055970805102247
+    second: Genesis 32X SCD - Mortal Kombat - Goro_14
+  - first:
+      213: 3918259380960744929
+    second: Genesis 32X SCD - Mortal Kombat - Goro_15
+  - first:
+      213: 4878348498947446931
+    second: Genesis 32X SCD - Mortal Kombat - Goro_16
+  - first:
+      213: 5304790192820059779
+    second: Genesis 32X SCD - Mortal Kombat - Goro_17
+  - first:
+      213: 6748811405848821725
+    second: Genesis 32X SCD - Mortal Kombat - Goro_18
+  - first:
+      213: -2029197058281038422
+    second: Genesis 32X SCD - Mortal Kombat - Goro_19
+  - first:
+      213: 281170114085555557
+    second: Genesis 32X SCD - Mortal Kombat - Goro_20
+  - first:
+      213: -6488173421962468839
+    second: Genesis 32X SCD - Mortal Kombat - Goro_21
+  - first:
+      213: 5977405316239482966
+    second: Genesis 32X SCD - Mortal Kombat - Goro_22
+  - first:
+      213: 7791896098498220963
+    second: Genesis 32X SCD - Mortal Kombat - Goro_23
+  - first:
+      213: -4375694964384175011
+    second: Genesis 32X SCD - Mortal Kombat - Goro_24
+  - first:
+      213: -4831676006864530007
+    second: Genesis 32X SCD - Mortal Kombat - Goro_25
+  - first:
+      213: -7989797085752645300
+    second: Genesis 32X SCD - Mortal Kombat - Goro_26
+  - first:
+      213: 1179300165075757987
+    second: Genesis 32X SCD - Mortal Kombat - Goro_27
+  - first:
+      213: -655431900455627803
+    second: Genesis 32X SCD - Mortal Kombat - Goro_28
+  - first:
+      213: -5649270393398370301
+    second: Genesis 32X SCD - Mortal Kombat - Goro_29
+  - first:
+      213: -7643350507324322107
+    second: Genesis 32X SCD - Mortal Kombat - Goro_30
+  - first:
+      213: 452186235841775991
+    second: Genesis 32X SCD - Mortal Kombat - Goro_31
+  - first:
+      213: -8769400012713577855
+    second: Genesis 32X SCD - Mortal Kombat - Goro_32
+  - first:
+      213: 4513020343372043189
+    second: Genesis 32X SCD - Mortal Kombat - Goro_33
+  - first:
+      213: 6077424509720444807
+    second: Genesis 32X SCD - Mortal Kombat - Goro_34
+  - first:
+      213: 5207602222793805115
+    second: Genesis 32X SCD - Mortal Kombat - Goro_35
+  - first:
+      213: -4210046744183193146
+    second: Genesis 32X SCD - Mortal Kombat - Goro_36
+  - first:
+      213: -2391452480879147439
+    second: Genesis 32X SCD - Mortal Kombat - Goro_37
+  - first:
+      213: 8640309177615142280
+    second: Genesis 32X SCD - Mortal Kombat - Goro_38
+  - first:
+      213: -8894922114130038085
+    second: Genesis 32X SCD - Mortal Kombat - Goro_39
+  - first:
+      213: -719283116961484101
+    second: Genesis 32X SCD - Mortal Kombat - Goro_40
+  - first:
+      213: 9215780794677206417
+    second: Genesis 32X SCD - Mortal Kombat - Goro_41
+  - first:
+      213: 666019136555634820
+    second: Genesis 32X SCD - Mortal Kombat - Goro_42
+  - first:
+      213: 247231452367565714
+    second: Genesis 32X SCD - Mortal Kombat - Goro_43
+  - first:
+      213: -2827652622836783400
+    second: Genesis 32X SCD - Mortal Kombat - Goro_44
+  - first:
+      213: -7912393799692970065
+    second: Genesis 32X SCD - Mortal Kombat - Goro_45
+  - first:
+      213: 6071335679351601047
+    second: Genesis 32X SCD - Mortal Kombat - Goro_46
+  - first:
+      213: -7528493147396181490
+    second: Genesis 32X SCD - Mortal Kombat - Goro_47
+  - first:
+      213: -1345386011075822058
+    second: Genesis 32X SCD - Mortal Kombat - Goro_48
+  - first:
+      213: 4478891000249819911
+    second: Genesis 32X SCD - Mortal Kombat - Goro_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 466
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fccac90b344aec4c9ceda191e0e36b8
+      internalID: 5622400040832113010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 466
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0db16cdc41e1f4b856fd1a851320a6
+      internalID: -3643430777764951685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 467
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a984d86d9e70741b784601df5775ee
+      internalID: -2879884912334739111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 467
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23271da3508e92b459601c703e639c72
+      internalID: 2063750188024048549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 467
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a5d9b6e69e05d479dea7b1a672184b
+      internalID: 8904914632444969696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 466
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27592139c60535d44ac01ca29fbb14c5
+      internalID: -8032304611474638243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 467
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad44e9a413bf094fa6f0e4e58ebda5b
+      internalID: 7818169559719082775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 399
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058ab89a786b4a3459afba3a5e5d3191
+      internalID: 3933853345017043327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 399
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b876974c3ee7e454f9529d8f721fd9ad
+      internalID: -1055495972132318870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 399
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557366c4e3839b44ebef6370c09078d8
+      internalID: 6885545642445459989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 398
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ec88e0e38d92442a2520964a476cbc
+      internalID: -4272030145831238228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_11
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 399
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaada52a1e32da4e8cb97a091546d8e
+      internalID: 2531992645381585936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 399
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2321f16232c96974c9e2a87fca258adf
+      internalID: 4073691673331318006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 327
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f27e1582c321b44a886debee726031
+      internalID: 7977617595526353186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 327
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85003bc760e7c43b8316938774775d
+      internalID: 3857055970805102247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 327
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3d8d12d704df845bd859d88812c43f
+      internalID: 3918259380960744929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 327
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1adb0f15e17014196451caca257281
+      internalID: 4878348498947446931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 327
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4747261f4ec10b7429073e308de5d38f
+      internalID: 5304790192820059779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a94434c2058a1469092f4f8c7241bf
+      internalID: 6748811405848821725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 255
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a1e2d0f7b0f6d44be616c8b9fec472
+      internalID: -2029197058281038422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 255
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78323d90b744e054faab11fded9d7e2e
+      internalID: 281170114085555557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 255
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fd40cdd08110d4797614c456cd80a0
+      internalID: -6488173421962468839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_22
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 255
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d2fa7bea9a4c243b9df3f083925b6e
+      internalID: 5977405316239482966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff9e316f50ecdb4885ffb923417c7e7
+      internalID: 7791896098498220963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_24
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 255
+        width: 63
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8084506c5cf79594da999abcfd5ab640
+      internalID: -4375694964384175011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 181
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225f9d2816ef1c44782123eaca9f5414
+      internalID: -4831676006864530007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_26
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 180
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cc0e4267d400644914fb6813d6fa5b
+      internalID: -7989797085752645300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 181
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d988175e8ee149be39547291d5edf
+      internalID: 1179300165075757987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 180
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775fb76f25d02e949a312e47348bbc57
+      internalID: -655431900455627803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 180
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122ea59cea6405f419402de3a69744ce
+      internalID: -5649270393398370301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 181
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d488facac215167409a066f54c4d057c
+      internalID: -7643350507324322107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 181
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc825dbbca36b34e98b1ba2427904ad
+      internalID: 452186235841775991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 181
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19f4884a518e5a4eaa9359b389efaa5
+      internalID: -8769400012713577855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 180
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04989cb20cd20e499eb49d8834faa3b
+      internalID: 4513020343372043189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 114
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336885bd9f3e0c4bab4b0a49357494d
+      internalID: 6077424509720444807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_35
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 113
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a753534020bbe4180488ba575b50df
+      internalID: 5207602222793805115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 113
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036a7bb44f22fe04e8a7c6c2a3619df8
+      internalID: -4210046744183193146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_37
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 113
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6421579279d0c9b4abc0124851fcd93f
+      internalID: -2391452480879147439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_38
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 113
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da538d121c18e640891357fe3553e5b
+      internalID: 8640309177615142280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 113
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7018d7dbab4b97d42a8184b94e4dea57
+      internalID: -8894922114130038085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_40
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 113
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae8c086b9439b54c9361da332ec233f
+      internalID: -719283116961484101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_41
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 113
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96066860f43e57f40bd2428fbf477340
+      internalID: 9215780794677206417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_42
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2
+        width: 170
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5844f764ef554e45979d06e8d7a8678
+      internalID: 666019136555634820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_43
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 71
+        width: 170
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448971c63922b474e8638f6b1b10e6a4
+      internalID: 247231452367565714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_44
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffba2bc1ee35de418df99154c7fe852
+      internalID: -2827652622836783400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_45
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 72
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895268f516c37ae4e97b9965b7b2db19
+      internalID: -7912393799692970065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_46
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 71
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881c80c0130ca0e42b2f5f1fd3a38b44
+      internalID: 6071335679351601047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 71
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08c1c6355dd8df40970d8cf1cbdafc7
+      internalID: -7528493147396181490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31d530b1a727c46baad2d3c8480375
+      internalID: -1345386011075822058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Genesis 32X SCD - Mortal Kombat - Goro_49
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787e3fc633a89014cbd26a56aa22af91
+      internalID: 4478891000249819911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

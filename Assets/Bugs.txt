@@ -1,0 +1,13 @@
+Reativar o MENU 
+Realocar as variaveis do GerenciadorJogo
+        //Sempre que for otimizar o jogo, deixar GameLigado = true e timeScale = 1.
+        //Quando não for editar retornar os valores para GameLigado = false e timeScale = 0.
+        
+
+//Bugs encontrados:
+
+
+  //Player demora a cair caso pressione a seta "Baixo" apos o pulo.
+  //Player morre com Game Over quando encosta nos monstros.
+  //Player destroy monstros caso encoste neles
+  //Resolver problema de Game over em todos os Enimigos, eles nao morrem ou o player desaparece.

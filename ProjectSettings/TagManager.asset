@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plataforma
+  - ladder
+  - Ground
+  - TopLadder
+  - Enimies
+  - Spike
+  - Saw
+  - Som
+  - Enemy
+  - HpBarra
+  - Star
+  - starText
+  - lifesText
+  - CheckPoint
+  - MorteImediata
+  - NextLevel
+  - NextLevel2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ground
+  - Ladder
+  - wall
+  - Enemy
+  - GameOver
+  - inimigo
+  - PeEvitaDuplaContagem
+  - stars
+  - BarrigaEvitaDuplaContagem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1706604075
+    locked: 0
+  - name: Cave
+    uniqueID: 2271000315
+    locked: 0
+  - name: Foreground
+    uniqueID: 3669046553
+    locked: 0
+  - name: Foreground2
+    uniqueID: 2353188403
+    locked: 0
+  - name: Props
+    uniqueID: 3939686329
+    locked: 0
+  - name: enims
+    uniqueID: 2343959719
+    locked: 0
+  - name: Wall
+    uniqueID: 2970520635
+    locked: 0
+  - name: Plataform
+    uniqueID: 992192753
+    locked: 0
+  - name: Bush
+    uniqueID: 2494343287
+    locked: 0
+  - name: Ladder
+    uniqueID: 396349049
+    locked: 0
+  - name: Character
+    uniqueID: 2497102691
+    locked: 0
+  - name: Bau
+    uniqueID: 562385797
+    locked: 0
+  - name: inimigos
+    uniqueID: 3642625835
+    locked: 0
+  - name: Nuvens
+    uniqueID: 362131419
+    locked: 0
+  - name: checkPoint
+    uniqueID: 1024796833
+    locked: 0
+  - name: stars
+    uniqueID: 2683036081
+    locked: 0
+  - name: canvas
+    uniqueID: 239414681
+    locked: 0
+  - name: nextlevel
+    uniqueID: 1147177509
+    locked: 0
